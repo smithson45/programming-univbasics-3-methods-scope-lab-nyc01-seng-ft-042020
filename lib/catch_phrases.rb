@@ -12,3 +12,9 @@ end
 def link 
   puts "It's Dangerous To Go Alone! Take this."
 end
+
+def all_phrases
+  mario
+  toadstool
+  link
+end
